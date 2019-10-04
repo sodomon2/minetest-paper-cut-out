@@ -1,4 +1,4 @@
-#Paper-Cut-Out
+# Paper-Cut-Out
 by Sodomon
 
 ![Screenshot1](screenshot/screenshot_1.png)
@@ -6,8 +6,8 @@ by Sodomon
 ![Screenshot3](screenshot/screenshot_3.png)
 ![Screenshot4](screenshot/screenshot_4.png)
 
-##Contributors
+## Contributors
 Diazvictor 
 
-##Licensing
+## Licensing
 GNU General Public License
