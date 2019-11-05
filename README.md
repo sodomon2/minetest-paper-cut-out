@@ -10,4 +10,4 @@ by Sodomon
 Diazvictor 
 
 ## Licensing
-Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
+GNU General Public License v3.0
